@@ -1,33 +1,44 @@
-Hi, I'm Avinash Kumar 👋
+# Hi, I'm Avinash Kumar
 
-Senior Platform Engineer | Kubernetes | AWS | GCP | Terraform | GitOps
+Cloud and Platform Engineer with 8+ years of experience in cloud infrastructure, Kubernetes, automation and DevOps practices.
 
-Cloud and Platform Engineer with 8+ years of experience designing, automating, and managing cloud-native infrastructure.
+## Core Technologies
 
-Core Expertise
-Kubernetes (EKS, GKE, OpenShift)
-AWS & GCP
-Terraform
-GitLab CI/CD
-GitHub Actions
-ArgoCD
-Docker
-Prometheus & Grafana
-Platform Engineering
-DevSecOps
-What I Work On
-Kubernetes Platform Engineering
-GitOps Deployments
-Infrastructure as Code
-Cloud Architecture
-Reliability Engineering
-DevSecOps Automation
-Featured Projects
-Kubernetes DevSecOps Pipeline
-EKS Reference Architecture
-GitOps Platform
-Terraform AWS Modules
-Multi-Region Disaster Recovery
-Connect With Me
+* Kubernetes (EKS, GKE, OpenShift)
+* AWS
+* Google Cloud Platform
+* Terraform
+* GitLab CI/CD
+* GitHub Actions
+* ArgoCD
+* Docker
+* Prometheus
+* Grafana
 
-LinkedIn: linkedin.com/in/avinashkumar-deveops
+## Areas of Interest
+
+* Platform Engineering
+* Cloud Architecture
+* Infrastructure Automation
+* GitOps
+* Kubernetes Security
+* Reliability Engineering
+
+## Featured Repositories
+
+### Kubernetes DevSecOps Pipeline
+
+End-to-end CI/CD and DevSecOps implementation using GitHub Actions, SonarQube, Trivy, Docker, Kubernetes and ArgoCD.
+
+### EKS Reference Architecture
+
+Production-ready Kubernetes architecture on AWS with GitOps deployment workflows.
+
+### Terraform AWS Modules
+
+Reusable Infrastructure as Code modules for AWS environments.
+
+## Connect
+
+LinkedIn:
+linkedin.com/in/avinashkumar-deveops
