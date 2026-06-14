@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi, I'm Avinash Kumar 👋
 
-<!--
-**avinashkumar-sre/avinashkumar-sre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Platform Engineer | Kubernetes | AWS | GCP | Terraform | GitOps
 
-Here are some ideas to get you started:
+Cloud and Platform Engineer with 8+ years of experience designing, automating, and managing cloud-native infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Core Expertise
+Kubernetes (EKS, GKE, OpenShift)
+AWS & GCP
+Terraform
+GitLab CI/CD
+GitHub Actions
+ArgoCD
+Docker
+Prometheus & Grafana
+Platform Engineering
+DevSecOps
+What I Work On
+Kubernetes Platform Engineering
+GitOps Deployments
+Infrastructure as Code
+Cloud Architecture
+Reliability Engineering
+DevSecOps Automation
+Featured Projects
+Kubernetes DevSecOps Pipeline
+EKS Reference Architecture
+GitOps Platform
+Terraform AWS Modules
+Multi-Region Disaster Recovery
+Connect With Me
+
+LinkedIn: linkedin.com/in/avinashkumar-deveops
